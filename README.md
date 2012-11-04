@@ -17,4 +17,4 @@ To setup this example,
 * open the browser and type http://localhost:9000/listProducts to test json request/response from remote servers
 
 
-Refer the blog @ http://krishnasblog.com/
+Refer the blog @ http://krishnasblog.com/2012/11/04/play-2-0-web-development-framework-using-scala/
