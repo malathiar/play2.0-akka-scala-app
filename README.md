@@ -1,7 +1,7 @@
-Harnessing New Java Web Development Frameworks: Play 2.0, Akka, Comet
-=====================================================================
+Play 2.0: Web Development Framework using Scala 
+===============================================
 
-In this blog, I will discuss some of these points and also discuss how Akka and Comet complement Play 2.0. 
+In this blog, I will discuss how to use Play 2.0 with Scala. 
 
 To setup this example, 
 
@@ -12,7 +12,9 @@ To setup this example,
 
 	play run
 	
-* open the browser and type http://localhost:9000/ to test Akka async and http://localhost:9000/hello/1 to test Akka Actor
+* open the browser and type http://localhost:9000/ to test database insert
+* open the browser and type http://localhost:9000/listBars to list all the bars
+* open the browser and type http://localhost:9000/listProducts to test json request/response from remote servers
 
 
-Refer the blog @ http://krishnasblog.com/2012/10/30/harnessing-new-java-web-development-frameworks-play-2-0-akka-comet/
+Refer the blog @ http://krishnasblog.com/
